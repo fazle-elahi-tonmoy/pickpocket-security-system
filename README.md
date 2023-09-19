@@ -10,7 +10,7 @@
 
 
 ## Problem Statement:
-Pickpocketing has been a wide-spread problem throughout the entire world. In Bangladesh there happens at least 9 thefts per 100,000 people which is very agitating <<a href = "https://www.theglobaleconomy.com/Bangladesh/theft/"> source here </a>
+Pickpocketing has been a wide-spread problem throughout the entire world. In Bangladesh there happens at least 9 thefts per 100,000 people which is very agitating <a href = "https://www.theglobaleconomy.com/Bangladesh/theft/"> source here </a>
 
 So, we created a very low-cost security device which will alert the user if someone tries to pick-pocket their wallet or other valuable stuff. 
 
@@ -45,19 +45,19 @@ It can also be attached to smartphone and be put into the pocket because of its 
     <img src="img/Password Input.png" width="auto" >
 
 ## Product Specification:
-  - Dimension:  1inch * 0.8 inch (Main Circuit) and battery
+  - Dimension:  `1inch x 0.8 inch` (Main Circuit) and battery
   - Battery Capacity: 5hr on guard, 72hr on standby (500 mAh)
   - Water Resistance: No water resistance
 
 ## Developer Team
 
-  - Fazle Elahi Tonmoy
-    Team Leader, R&D, Production
-    Bengal Innovators
+  ### Fazle Elahi Tonmoy
+  Team Leader, R&D, Production 
+    `Bengal Innovators`
 
-  - Mubarak Hussain
-    R&D, Network and Distribution
-    Bengal Innovators
+  ### Mubarak Hussain
+  R&D, Network and Distribution
+    `Bengal Innovators`
 
 
 
