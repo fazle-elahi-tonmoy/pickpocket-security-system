@@ -26,6 +26,40 @@ It can also be attached to smartphone and be put into the pocket because of its 
 
 ## PCB View:
   - Front View:
+  <img src="circuit/PCB Front View.png" width="500" >
+
+  - Back View:
+  <img src="circuit/PCB Back View.png" width="500" >
+
+## Working Principle:
+  In this product there is a single push button for activating the system and setting your password. First, let’s see the way to press this button:
   
-  <img src="circuit/PCB Front View.png" align="center" width="500" >
+  - <img src="img/Short Press.png" width="50" > Short Press (Press and Release Immediately)
+  - <img src="img/Long Press.png" width="50" > Long Press (Press and hold for at least 0.5s)
+
+  Now there is three major modes in this device. Each mode has a specific button pressing sequence which are described below:
+  <img src="img/Mode Table.png" width="auto" >
+  
+  ### Password Input: 
+    The password consists of two digit which can be understood from the example below. This way we can input a password using only one button.
+    <img src="img/Password Input.png" width="auto" >
+
+## Product Specification:
+  - Dimension:  1inch * 0.8 inch (Main Circuit) and battery
+  - Battery Capacity: 5hr on guard, 72hr on standby (500 mAh)
+  - Water Resistance: No water resistance
+
+## Developer Team
+
+  - Fazle Elahi Tonmoy
+    Team Leader, R&D, Production
+    Bengal Innovators
+
+  - Mubarak Hussain
+    R&D, Network and Distribution
+    Bengal Innovators
+
+
+
+
 
