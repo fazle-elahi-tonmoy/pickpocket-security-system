@@ -41,8 +41,8 @@ It can also be attached to smartphone and be put into the pocket because of its 
   <img src="img/Mode Table.png" width="auto" >
   
   ### Password Input: 
-    The password consists of two digit which can be understood from the example below. This way we can input a password using only one button.
-    <img src="img/Password Input.png" width="auto" >
+  The password consists of two digit which can be understood from the example below. This way we can input a password using only one button.
+  <img src="img/Password Input.png" width="auto" >
 
 ## Product Specification:
   - Dimension:  `1inch x 0.8 inch` (Main Circuit) and battery
