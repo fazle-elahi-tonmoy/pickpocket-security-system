@@ -42,6 +42,7 @@ It can also be attached to smartphone and be put into the pocket because of its 
   
   ### Password Input: 
   The password consists of two digit which can be understood from the example below. This way we can input a password using only one button.
+  
   <img src="img/Password Input.png" width="300" >
 
 ## Product Specification:
