@@ -19,3 +19,12 @@ The product consists of a single PCB containing IR reflective sensor, buzzer, an
 It can also be attached to smartphone and be put into the pocket because of its slim design. 
 <img src="circuit/System View.png" width="500">
 
+
+## Circuit Diagram:
+
+<img src="circuit/Circuit Diagram.png" width="auto">
+
+## PCB View:
+  - Front View:
+    <img src="circuit/PCB Front View.png" align="center" width="500" >
+
