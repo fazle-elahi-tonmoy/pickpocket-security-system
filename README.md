@@ -26,5 +26,6 @@ It can also be attached to smartphone and be put into the pocket because of its 
 
 ## PCB View:
   - Front View:
-    <img src="circuit/PCB Front View.png" align="center" width="500" >
+  
+  <img src="circuit/PCB Front View.png" align="center" width="500" >
 
