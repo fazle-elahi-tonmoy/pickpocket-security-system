@@ -43,6 +43,7 @@ void loop() {
       theif = 0;
       lock = !lock;
       (lock) ? finger.LEDcontrol(FINGERPRINT_LED_BREATHING, 0, FINGERPRINT_LED_RED) : finger.LEDcontrol(FINGERPRINT_LED_BREATHING, 0, FINGERPRINT_LED_BLUE);
+      if(lock) delay(5000); //pocket e vorar age delay
     }
   }
 }
